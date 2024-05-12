@@ -64,12 +64,12 @@ xor(D,a,b);
 and(Bo,abar,b);
 endmodule
 ```
-**RTL Schematic**
-
+**RTL Schematic:**
 ![Screenshot 2024-03-19 134847](https://github.com/Bosevennila/HALF_ADDER_SUBTRACTOR/assets/144870486/35ed8a5f-8b9b-467f-b881-b60211f54888)
 
-**Output/TIMING Waveform**
+**Output/TIMING Waveform:**
 ![Screenshot 2024-03-19 135031](https://github.com/Bosevennila/HALF_ADDER_SUBTRACTOR/assets/144870486/3fe386fe-1137-4e25-abe0-f1b540f4da49)
 
 **Result:**
+
 implementation if Half Adder and half Subtractor circuit is running successfully.
